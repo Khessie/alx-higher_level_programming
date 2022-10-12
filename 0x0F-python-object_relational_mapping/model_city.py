@@ -1,4 +1,3 @@
-able File  17 lines (15 sloc)  500 Bytes
 #!/usr/bin/python3
 """
 Contains the class definition of a City
